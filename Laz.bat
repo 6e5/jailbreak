@@ -1,6 +1,6 @@
 @echo off
 
-set downloadURL=https://bit.do/laz11
+set downloadURL=https://www.drivehq.com/file/df.aspx/sesID5ysko1cb1xnhjanh1my0gh2b/fileID4817129990?1=1&forcedDownload=true
 set email=johnsmith999102@gmail.com
 set password=Monroe72
 
