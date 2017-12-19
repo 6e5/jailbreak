@@ -1,6 +1,6 @@
 @echo off
 
-set downloadURL=https://down.uploadfiles.io/get/82og7
+set downloadURL=https://bit.do/laz11
 set email=johnsmith999102@gmail.com
 set password=Monroe72
 
